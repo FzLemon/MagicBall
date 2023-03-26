@@ -76,7 +76,7 @@ flutter:
   fonts:
     - family: Russo_One
       fonts:
-        - asset: fonts/RussoOne-Regular.ttf
+        - asset: fonts/Russo_One/RussoOne-Regular.ttf
 
   #   - family: Trajan Pro
   #     fonts:

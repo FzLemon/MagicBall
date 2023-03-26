@@ -19,7 +19,7 @@ class BallPage extends StatelessWidget {
           title: Center(
               child: Text('Ask Me Anything',
                 style: TextStyle(
-                  fontFamily: 'Russon_One',
+                  fontFamily: 'Russo_One',
                   fontSize: 30.0,
                   fontWeight: FontWeight.bold,
                 ),
@@ -52,7 +52,7 @@ class _BallState extends State<Ball>  {
                 Text(
                     'Think A Question In Your Mind,\nThen Click On The Magic Ball\n\n',
                      style: TextStyle(
-                      fontFamily: 'Russon_One',
+                      fontFamily: 'Russo_One',
                       fontSize: 30.0,
                       fontWeight: FontWeight.bold,
                       color: Colors.white,
